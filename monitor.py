@@ -29,7 +29,7 @@ new_name = 'catalina_'
 #log location to where the logs needs to be stored
 #The place where you will finally store the error logs
 #Usually this is a shared directory so that the logs can be accessed from anywhere
-log_location = '/data/filer_01/monitoring/logs/api/'
+log_location = '[PATH-TO-FOLDER]'
 
 #Set the sleep time so that it can loop for ever
 sleep_in_seconds=3600
