@@ -8,7 +8,6 @@ Please follow the instructions inside of the script to set up monitoring.
 Contribute and feel free to change the script for more performance optimization. 
 
 Focus Areas for improvements: 
------------------------------
 
 1. Optimization in terms of performance 
 2. Making sure that the script does not hog a lot of CPU cycles
